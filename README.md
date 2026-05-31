@@ -60,7 +60,7 @@
 
 | 프로젝트 | 설명 | 기술 스택 |
 |---|---|---|
-| [2getherPrj](https://github.com/Zyooon/2getherPrj) | 팀원 소개 & 방명록 웹앱 · OpenAI API 활용 | HTML, JS, Firebase, OpenAI API |
+| 프로젝트 | 팀원 소개 & 방명록 웹앱 · OpenAI API 활용 | HTML, JS, Firebase, OpenAI API |
 
 <br>
 
