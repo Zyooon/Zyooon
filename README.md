@@ -49,14 +49,58 @@
 
 ## 💻 Projects
 
-🔹 **[RAG-System](https://github.com/Zyooon/rag-system)** — 로컬 문서 기반 맥락 검색 · 출처 매핑 · LLM 응답 RAG 파이프라인
-`Spring AI` `Ollama` `Redis` `Docker`
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Zyooon/rag-system">
+        <img src="https://img.shields.io/badge/RAG--System-4A90D9?style=for-the-badge&logoColor=white"/>
+      </a>
+      <br/><br/>
+      로컬 문서 기반 맥락 검색 · 출처 매핑 · LLM 응답 RAG 파이프라인
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Zyooon">
+        <img src="https://img.shields.io/badge/MOMO-6C3483?style=for-the-badge&logoColor=white"/>
+      </a>
+      <br/><br/>
+      모임 플랫폼 · 이벤트 기반 비동기 알림 시스템 설계
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SSE-0097A7?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/GuDaeWoong/NewSpeed">
+        <img src="https://img.shields.io/badge/NewSpeed-2E86C1?style=for-the-badge&logoColor=white"/>
+      </a>
+      <br/><br/>
+      SNS 뉴스피드 · JWT 인증 필터 설계
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/DOGYUN0903/outerpark">
+        <img src="https://img.shields.io/badge/OuterPark-27AE60?style=for-the-badge&logoColor=white"/>
+      </a>
+      <br/><br/>
+      공연 예매 서비스 · DB 성능 최적화
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Index_Tuning-FF9900?style=flat-square&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-🔹 **[MOMO](https://github.com/Zyooon)** — 모임 플랫폼 · 이벤트 기반 비동기 알림 시스템 설계
-`Spring Boot` `RabbitMQ` `Redis` `SSE`
-
-🔹 **[NewSpeed](https://github.com/GuDaeWoong/NewSpeed)** — SNS 뉴스피드 · JWT 인증 필터 설계
-`Spring Boot` `Spring Security`
 
 <br>
 
