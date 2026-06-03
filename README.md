@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Zyooon&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Java%2FSpring%20Backend%20→%20AI%20Developer&descAlignY=62&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=Zyooon&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI%20Backend%20Developer&descAlignY=62&descSize=18)
 
 <br>
 
