@@ -49,11 +49,14 @@
 
 ## 💻 Projects
 
-| 프로젝트 | 설명 | 기술 스택 |
-|:---:|:---:|:---:|
-| [RAG-System](https://github.com/Zyooon/rag-system) | 로컬 문서 기반 맥락 검색 · 출처 매핑 · LLM 응답 RAG 파이프라인 | Spring AI, Ollama, Redis, Docker |
-| [MOMO](https://github.com/Zyooon) | 모임 플랫폼 · 이벤트 기반 비동기 알림 시스템 설계 | Spring Boot, RabbitMQ, Redis, SSE |
-| [NewSpeed](https://github.com/GuDaeWoong/NewSpeed) | SNS 뉴스피드 · JWT 인증 필터 설계 | Spring Boot, Spring Security |
+🔹 **[RAG-System](https://github.com/Zyooon/rag-system)** — 로컬 문서 기반 맥락 검색 · 출처 매핑 · LLM 응답 RAG 파이프라인
+`Spring AI` `Ollama` `Redis` `Docker`
+
+🔹 **[MOMO](https://github.com/Zyooon)** — 모임 플랫폼 · 이벤트 기반 비동기 알림 시스템 설계
+`Spring Boot` `RabbitMQ` `Redis` `SSE`
+
+🔹 **[NewSpeed](https://github.com/GuDaeWoong/NewSpeed)** — SNS 뉴스피드 · JWT 인증 필터 설계
+`Spring Boot` `Spring Security`
 
 <br>
 
