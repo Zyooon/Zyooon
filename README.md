@@ -51,27 +51,27 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/lookai-labs/styleflow">
-        <img src="https://img.shields.io/badge/Style--Flow-4A90D9?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Style--Flow-6B7280?style=for-the-badge&logoColor=white"/>
       </a>
       <br/><br/>
       얼굴형·퍼스널컬러 분석 기반 헤어·메이크업 RAG 상담 및 이미지 생성 서비스
       <br/><br/>
-      <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
     </td>
-    <td align="center" width="50%">
+   <td align="center" width="50%">
       <a href="https://github.com/Zyooon/pronunciation_design">
-        <img src="https://img.shields.io/badge/Pronunciation--Design-6C3483?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pronunciation--Design-F97316?style=for-the-badge&logoColor=white"/>
       </a>
       <br/><br/>
       한국인 영어 학습자를 위한 AI 발음 교정 시스템
       <br/><br/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SSE-0097A7?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/faster--whisper-4B5563?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/librosa-6B7280?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
