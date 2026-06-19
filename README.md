@@ -63,7 +63,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Zyooon/pronunciation_design">
-        <img src="https://img.shields.io/badge/Pronunciation-Design-6C3483?style=for-the-badge&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pronunciation--Design-6C3483?style=for-the-badge&logoColor=white"/>
       </a>
       <br/><br/>
       한국인 영어 학습자를 위한 AI 발음 교정 시스템
