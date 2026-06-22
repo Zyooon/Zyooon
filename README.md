@@ -65,7 +65,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-0B2A57?style=flat-square&logoColor=white"/>
     </td>
    <td align="center" width="50%">
       <a href="https://github.com/Zyooon/pronunciation_design">
