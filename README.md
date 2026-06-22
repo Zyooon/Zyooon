@@ -11,9 +11,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
+![faster-whisper](https://img.shields.io/badge/faster--whisper-4B5563?style=flat-square&logoColor=white)
 
 **RAG / Vector DB**
 
@@ -21,6 +19,14 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white)
 ![BGE-M3](https://img.shields.io/badge/BGE--M3-6C3483?style=flat-square&logoColor=white)
+
+**Computer Vision / Audio**
+
+![YOLO](https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logoColor=white)
+![librosa](https://img.shields.io/badge/librosa-6B7280?style=flat-square&logoColor=white)
+![MFCC](https://img.shields.io/badge/MFCC-F97316?style=flat-square&logoColor=white)
 
 **Backend**
 
