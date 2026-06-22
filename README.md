@@ -137,11 +137,12 @@
 ## 📚 Currently Learning
 
 ```
-Python / LangChain   ████████░░  80%
-LangGraph Agent      ██████░░░░  60%
-YOLO v11 / OpenCV    ███████░░░  70%
-FastAPI / Django     ██████░░░░  60%
-VLA Model            ████░░░░░░  40%
+Python / LangChain       █████████░  90%
+LangGraph Agent          ████████░░  80%
+ChromaDB / Vector RAG    ████████░░  80%
+MFCC / Audio Scoring     ████████░░  80%
+Django REST Framework    ███████░░░  70%
+Ollama / Gemini API      ███████░░░  70%
 ```
 
 <br>
